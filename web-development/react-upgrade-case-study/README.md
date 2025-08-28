@@ -40,6 +40,19 @@ The conversion was a systematic process for each component, ensuring a smooth tr
 
 -----
 
+### Key Skills & Technologies Used
+* **React:** In-depth knowledge of both class-based and functional component architectures.
+
+* **React Hooks:** Expertise in using useState, useEffect, useContext, and other core Hooks to manage state and side effects.
+
+* **API Integration:** Implementing Hooks to fetch and manage data from a custom REST API.
+
+* **Refactoring:** Systematically converting a large existing codebase while minimizing bugs and maintaining functionality.
+
+* **Debugging:** Identifying and resolving issues that arose during the conversion process, such as dependency array-related bugs.
+
+-----
+
 ### Simple Component Example: Before and After
 
 This example illustrates the reduced code and more direct handling of state and events that functional components provide.
