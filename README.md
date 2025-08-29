@@ -3,6 +3,9 @@ WEB SOFTWARE DEVELOPER  ·  AI SOFTWARE DEVELOPER  ·  INTERACTIVE DESIGNER
 
 A showcase of my work in web development, AI, and creative projects. As a developer with over 15+ years of experience, this repository is an extension of my personal website portfolio at https://www.chrisjohnson.net/, highlighting my coding and dvelopment skills for building innovative solutions.
 
+> [!TIP]
+> As of August 29th, this project is under active development. Please check back for continual updates.
+
 ### Table of Contents
 
   * [AI Work](#ai-work)
